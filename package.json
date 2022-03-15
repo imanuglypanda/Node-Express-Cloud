@@ -1,0 +1,26 @@
+{
+  "name": "node-express-cloud",
+  "version": "1.0.0",
+  "description": "Test deploy Node to cloud",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imanuglypanda/Node-Express-Cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imanuglypanda/Node-Express-Cloud/issues"
+  },
+  "homepage": "https://github.com/imanuglypanda/Node-Express-Cloud#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
