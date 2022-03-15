@@ -4,6 +4,7 @@
   "description": "Test deploy Node to cloud",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "format": "prettier --write *.js"
   },
   "repository": {
